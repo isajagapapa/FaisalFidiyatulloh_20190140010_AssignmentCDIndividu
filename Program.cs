@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Luas_Lingkaran
+namespace Luas_Persegi_Panjang
 {
     class Program
     {
